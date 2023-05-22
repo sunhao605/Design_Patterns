@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets/Script/Singleton.cs" />
     <Compile Include="Assets/Script/SimpleFactory.cs" />
+    <Compile Include="Assets/Script/D_04_Factory_Method_Pattern.cs" />
+    <Compile Include="Assets/Script/D_02_Abstract_Factory.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
