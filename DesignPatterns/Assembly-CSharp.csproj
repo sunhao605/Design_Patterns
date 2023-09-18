@@ -56,10 +56,20 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/MonoBundle/Addins/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Script/Singleton.cs" />
+    <Compile Include="Assets/Script/D_15_IteratorPattern.cs" />
+    <Compile Include="Assets/Script/D20_ChainResponsibility.cs" />
     <Compile Include="Assets/Script/SimpleFactory.cs" />
-    <Compile Include="Assets/Script/D_04_Factory_Method_Pattern.cs" />
+    <Compile Include="Assets/Script/D6_class_AdapterPattern.cs" />
     <Compile Include="Assets/Script/D_02_Abstract_Factory.cs" />
+    <Compile Include="Assets/Script/Singleton.cs" />
+    <Compile Include="Assets/Script/D_04_Factory_Method_Pattern.cs" />
+    <Compile Include="Assets/Script/D6_AdapterPattern.cs" />
+    <Compile Include="Assets/Script/D8_DecoratorPattern.cs" />
+    <Compile Include="Assets/Script/D16_ObeserverPattern.cs" />
+    <Compile Include="Assets/Script/D19_StragetyPattern.cs" />
+    <Compile Include="Assets/Script/D10_FacadePattern.cs" />
+    <Compile Include="Assets/Script/D13_TemplateMethodPattern.cs" />
+    <Compile Include="Assets/Script/D12_ProxyPattern.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
