@@ -1,0 +1,17 @@
+.vs
+*.csproj
+*.sln
+Library/
+Logs/
+Temp/
+UserSettings/
+obj/
+.vsconfig
+/*.txt
+Assets/StreamingAssets/build_info
+Assets/StreamingAssets/build_info.meta
+.idea/
+Assets/ThirdPlugins/Agora-RTC-Plugin/Agora-Unity-RTC-SDK/Code/Tools/
+
+# crash files
+mono_crash*
