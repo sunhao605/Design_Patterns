@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 536624211
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mainplayer
+      Dependencies: {}
+    Info_1:
+      Name: onefloorstatic
+      Dependencies: {}
